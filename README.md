@@ -2,7 +2,7 @@
 <h1 align="center">hi 👋, i'm aidan</h1>
 <h3 align="center">design-oriented developer based in brooklyn, ny</h3>
 
-- ⚡ i’m currently working on [gleam](/gleam)
+- ⚡ i’m currently working on [gleam](https://github.com/aidanheck/gleam)
 
 - 🌱 i’m currently learning **react, redux, typescript, angular**
 
