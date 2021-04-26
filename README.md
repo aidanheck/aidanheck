@@ -1,11 +1,10 @@
-# readme
 
 <h1 align="center">hi 👋, i'm aidan</h1>
 <h3 align="center">design-oriented developer based in brooklyn, ny</h3>
 
 - ⚡ i’m currently working on [gleam](github.com/aidanheck/gleam)
 
-- 🌱 I’m currently learning **react, redux, typescript, angular**
+- 🌱 i’m currently learning **react, redux, typescript, angular**
 
 
 <h3 align="left">Languages and Tools:</h3>
